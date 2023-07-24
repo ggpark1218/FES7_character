@@ -1,6 +1,14 @@
 body{
-    
+    background: linear-gradient(to bottom,#80C5EC,#fff, #F7A7CA);
+    background-repeat: no-repeat;
+    min-height: 100vh;
 }
+
+h1{
+    font-family: 'DotGothic16', sans-serif;
+    font-size: 45px;
+}
+
 .wrapper{
     display: flex;
     flex-direction: column;
