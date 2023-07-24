@@ -8,6 +8,7 @@ body{
     justify-content: center;
     width: fit-content;
     margin: 0 auto;
+    position: relative;
 }
 
 .head{
